@@ -9,5 +9,3 @@ fuck
 fuck
 fuck
 
-
-
