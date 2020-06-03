@@ -1,8 +1,8 @@
+Git is a distributed version control system.2222
 Git is a distributed version control system.
-Git is a distributed version control system.
+Git is free software distributed under the GPL.666
 Git is free software distributed under the GPL.
-Git is free software distributed under the GPL.
-33333nn
+33333nn777
 000
 fuck111
 fuck
